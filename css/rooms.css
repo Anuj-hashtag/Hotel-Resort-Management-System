@@ -1,0 +1,35 @@
+.room-price {
+    color: #a86f08;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.room-features {
+    padding-left: 20px;
+}
+
+.room-image {
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+}
+
+.details-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 25px;
+}
+
+.price-box {
+    background: #183b56;
+    color: white;
+    padding: 25px;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+@media (max-width: 800px) {
+    .details-grid {
+        grid-template-columns: 1fr;
+    }
+}
