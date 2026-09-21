@@ -1,0 +1,18 @@
+ARUSH DISHAL
+
+Assigned work:
+index.html
+about.html
+services.html
+gallery.html
+contact.html
+login.html
+css/style.css
+
+Role:
+Public website and authentication interface.
+
+Commit:
+git add index.html about.html services.html gallery.html contact.html login.html css/style.css
+git commit -m "Add Arush frontend pages"
+git push origin main

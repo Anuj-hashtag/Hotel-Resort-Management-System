@@ -1,0 +1,16 @@
+ARTI
+
+Assigned work:
+admin/dashboard.html
+admin/guests.html
+admin/billing.html
+admin/reports.html
+css/admin.css
+
+Role:
+Administrative management, guest records, billing and reports.
+
+Commit:
+git add admin/ css/admin.css
+git commit -m "Add admin management pages"
+git push origin main
